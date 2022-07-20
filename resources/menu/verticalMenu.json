@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Dashboard",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "dashboard-analytics"
+    },
+    {
+      "url": "/products",
+      "name": "Produtos",
+      "icon": "menu-icon tf-icons bx bx-table",
+      "slug": "produtos-analytics"
+    },
+    {
+      "url": "/users",
+      "name": "Usuários",
+      "icon": "menu-icon tf-icons bx bx-support",
+      "slug": "usuarios-analytics"
+    }
+  ]
+}
